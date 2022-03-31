@@ -1,0 +1,8 @@
+# BLACKLIST (IGNORED)
+.expo
+.expo-shared/README.md
+node_modules/
+web-build/
+eas.json
+# Local Netlify folder
+.netlify
